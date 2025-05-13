@@ -30,5 +30,5 @@ This repository contains an engineering thesis project focused on configuring a 
 ## 📁 Repository Structure
 
 pionier-network-config/  
-└── pionier_network.pkt # Cisco Packet Tracer project file  
+├── pionier_network.pkt # Cisco Packet Tracer project file  
 └── presentation.pdf # A short presentation about the project
